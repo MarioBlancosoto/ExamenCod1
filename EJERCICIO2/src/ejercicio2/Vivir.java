@@ -29,7 +29,7 @@ public void Tiempo(){
     m = (a*12);
     d = (a*365);
     h = (d*24);
- 
+ //metodo que calcula el tiempo en dias meses y horas
     
     
     
@@ -46,7 +46,7 @@ public void Tiempo(){
 }
 
 public void pedirDato(){
-    
+    //metodo que recibe e
     a = Integer.parseInt (e);
 }
 }
